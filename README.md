@@ -36,4 +36,4 @@ No accounts, no uploads, no tracking.
 
 ---
 
-**Designed by BY**
+Designed by BY
